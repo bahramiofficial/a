@@ -1,0 +1,59 @@
+  get 
+course/createcomment
+course/comment/{id}
+
+
+hame
+articles
+tak
+articles/{slug}
+
+
+
+/user
+
+
+
+course/{slug}
+questionanswer/{slug}
+course/episode/{slug}
+
+
+all course 
+user/course 
+
+user/password    parms oldpassword  password  new_password 
+
+user/uplodImage
+
+
+card/all 
+card/addCard/{id}
+card/destroy/{id}
+
+
+منو
+ دسته بندی مقالات
+articles/category
+
+
+holding menu
+
+
+/holdingMenu
+/subHoldingMenu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
